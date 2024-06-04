@@ -1,4 +1,4 @@
-![Programming Banner](https://t3.ftcdn.net/jpg/03/00/64/46/360_F_300644686_uORUSDUT4HByc6xI8q6DidmTYEoViW4T.jpg)
+![Programming Banner](https://github.com/halfrost/halfrost/blob/master/icons/header_.png?raw=true)
 
 
 ## Hi there! 👋 I'm Guillermo
@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 -->
 ### 👨🏻‍💻 &nbsp;About Me
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I studied software engineering at the University of Medellin.\
 🌱 &nbsp;I'm on track for learning more about Back-End Development, Data Analysis, and Artificial Intelligence.\
@@ -28,6 +30,7 @@ Here are some ideas to get you started:
 
 
 ### 🛠 &nbsp;Tech Stack
+
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -51,4 +54,13 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guillermoverhelst&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guillermoverhelst&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+## 🙋🏻‍♂️ Let's Connect
+<p align="center">
+  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:guillermoverhelst26@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/guillermoverhelst"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/guillermo-andres-verhelst-hoyos/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	
 </p>
