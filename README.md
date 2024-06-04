@@ -1,3 +1,6 @@
+![Programming Banner](https://t3.ftcdn.net/jpg/03/00/64/46/360_F_300644686_uORUSDUT4HByc6xI8q6DidmTYEoViW4T.jpg)
+
+
 ## Hi there! 👋 I'm Guillermo
 
 <!--
@@ -18,8 +21,8 @@ Here are some ideas to get you started:
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I studied software engineering at the University of Medellin.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I play videogames and play piano as hobbies.\
+🌱 &nbsp;I'm on track for learning more about Back-End Development, Data Analysis, and Artificial Intelligence.\
+🎹 &nbsp;In my free time, I play videogames and play piano as hobbies.\
 ✉️ &nbsp;You can shoot me an email at guillermoverhelst26@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Linkedin](https://www.linkedin.com/in/guillermo-andres-verhelst-hoyos/) for more details about me. I'm open to feedback and suggestions!
 
@@ -37,6 +40,9 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
